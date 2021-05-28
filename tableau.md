@@ -36,7 +36,8 @@ nav_order: 3
 ## 3. Changes in travel to parks for Ontario counties/municipalities
 > Q3: How has travel to parks changed over time in Ontario's counties/municipalities?  
 
-<!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/hshoker-parks-ontario/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
