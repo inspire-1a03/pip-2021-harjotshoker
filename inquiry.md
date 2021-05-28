@@ -21,7 +21,7 @@ nav_order: 4
 
 ## 2. Inquiry 2
 
-> Q2: Discuss British Columbia's changes in their grocery and pharamacy from Jan 2020 - May 2021. 
+> Q2: Discuss British Columbia's changes in their grocery and pharamacy from Feb 2020 - May 2021. 
 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/hshoker-grocery/Dashboard4?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
