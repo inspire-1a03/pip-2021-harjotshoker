@@ -24,7 +24,9 @@ nav_order: 3
 ## 2. Changes in travel to retail and recreation destinations for provinces/territories
 > Q2: How has travel to recreation and retail locations changed over time between regions of Canada?  
 
-<!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src="https://public.tableau.com/views//harjotshoker/viz/TraveltoRecreationRetailLocationsBetweenRegionsofCanada/Dashboard1
+:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
