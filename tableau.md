@@ -10,7 +10,9 @@ nav_order: 3
 ## 1. Mapping regional vaccination rates
 > Q1: What is the current state of vaccinations among provinces and territories?  
 
-<!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/hshoker-covid-vaccinations-map/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
+
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
