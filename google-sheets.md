@@ -20,7 +20,8 @@ nav_order: 2
 ## 2. Ontario's testing and vaccination trends 
 > Q2: How has Ontario responded to COVID in terms of testing and vaccinations? 
 
-<!-- Paste your embed code for your figure below-->
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSTa7KG-VtH74KbkBCH_sWWqD6PDPgnGGu0i--j1VZhzGPfzfTK6S9euuFIwWV73X65U20Ut0g5r0CV/pubchart?oid=1559118145&amp;format=interactive"></iframe>
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
@@ -30,7 +31,7 @@ nav_order: 2
 ## 3. Vaccination rates across provinces and territories
 > Q3: How do vaccination rates over time compare between all provinces and territories? 
 
-<!-- Paste your embed code for your figure below-->
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSTa7KG-VtH74KbkBCH_sWWqD6PDPgnGGu0i--j1VZhzGPfzfTK6S9euuFIwWV73X65U20Ut0g5r0CV/pubchart?oid=844942472&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
@@ -40,7 +41,8 @@ nav_order: 2
 ## 4. Canadian mobility trends 
 > Q4. How has mobility changed in Canada over the pandemic?
 
-<!-- Paste your embed code for your figure below-->
+<iframe width="1025" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkeKueXP7k7sGg57IwNZJKKVi99zi2MUL5co1kL0gIBAa8gQ8glh032Rq0zEwLWCgGj0mgf2y9Mqk2/pubchart?oid=1298813338&amp;format=interactive"></iframe>
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
