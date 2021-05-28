@@ -26,7 +26,7 @@ nav_order: 4
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/hshoker-grocery/Dashboard4?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe> 
  
-/hshoker-grocery/Dashboard4
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
@@ -37,9 +37,11 @@ nav_order: 4
 
 ## 3. Inquiry 3
 
-> Q3: *enter your question here*
+> Q3: Is there any changes in workplaces within Newfoundland and Labrador?
 
-<!-- Paste your embed code for your figure below-->
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/hshoker-workplace/Dashboard5?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>  
+
+
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
