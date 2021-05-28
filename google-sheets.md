@@ -13,8 +13,7 @@ nav_order: 2
 
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
-
+The figure above is illustrating the trends in Canada with regards to COVID-19 cases, hospitalizations and deaths since the pandemic started. The graphic illstrates that in the beginning of the pandemic, the daily fatalities were quite high, and gradually as the first wave ended, the less daily cases and hospitalizations there were. Eventually, as the second wave started to occur, daily cases, hospitalizations, and fatalities expontentially increases. An interesting note, as the vaccine rollout panned out- although there were still significant daily cases, the harm from the cases were much lower. 
 ---
 
 ## 2. Ontario's testing and vaccination trends 
