@@ -1,4 +1,4 @@
-title: Patterns in the Pandemic, 2021 - <Your Name>                 # *** Enter your name here
+title: Patterns in the Pandemic, 2021 - Harjot Shoker                # *** Enter your name here
 subtitle: 'An INSPIRE 1A03 Module'
 
 remote_theme: pmarsceill/just-the-docs                              # don't edit this. 
@@ -24,7 +24,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"                       # don't edit
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link               # don't edit this.
 gh_edit_link_text: "View this content on GitHub"                    # don't edit this.
-gh_edit_repository: "https://github.com/inspire-1a03/pip-2021-results" #*** ENTER the URL for your github repo
+gh_edit_repository: "https://github.com/inspire-1a03/pip-2021-harjotshoker" #*** ENTER the URL for your github repo
 gh_edit_branch: "main" # the branch that your docs is served from   # don't edit this.
 gh_edit_view_mode: "tree" # don't edit this. "tree" or "edit" if you want the user to jump into the editor immediately
 
