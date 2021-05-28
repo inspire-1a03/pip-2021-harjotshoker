@@ -49,8 +49,10 @@ nav_order: 2
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
+> <br>
 > What questions still exist about the trends and the data? What new questions has this process generated? 
 > What additional information would you like to help answer these questions? 
+>  <br>
 
 <!-- Write a short response below-->
 
