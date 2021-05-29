@@ -33,7 +33,7 @@ The figure showcases that Ontario had a slow start in terms of testing and vacci
 
 
 #### Summary
-The figure decribes how vaccinations in the terrorities are significantly higher than the provinces. The provinces have been quite close with one another in their rate of vaccinations throughout the course of the timeline, whereas the terrorities have large rates of vaccinations rates. 
+The third figure is illustrating the vaccination rates over time compare between all provinces and territories. The figure decribes how vaccinations in the terrorities are significantly higher than the provinces. The provinces have been quite close with one another in their rate of vaccinations throughout the course of the timeline, whereas the terrorities have large rates of vaccinations rates. 
 ---
 
 ## 4. Canadian mobility trends 
@@ -43,7 +43,7 @@ The figure decribes how vaccinations in the terrorities are significantly higher
 
 
 #### Summary
-**The diagram showcases that most Canadians have resorted to attending parks significantly more than any other form of recreation. The high peak is majorly only during the months of Spring/Summer however. Mobility transit rates have decreased the most,whereas the rest have been more stagant on the baseline. **
+The fourth figure is describing how mobility has changed in Canada during the pandemic. The diagram showcases that most Canadians have resorted to attending parks significantly more than any other form of recreation. The high peak is majorly only during the months of Spring/Summer however. Mobility transit rates have decreased the most,whereas the rest have been more stagant on the baseline.
 
 ## Final reflection
 > * What inferences can you make from the data you have explored and visualized?  
@@ -56,8 +56,7 @@ The figure decribes how vaccinations in the terrorities are significantly higher
 
 3. **The third figure is illustrating** the vaccination rates over time compare between all provinces and territories. While observing the graphic I can notice that the provinces are much more clustered together and have a smaller standard deviation between the two when place in comparsion with the terrorities which are much more dispersed and spread out. I can infer that the terrorities have been much more effective with their vaccine rollout plan as they have been majorly much higher in their rate than the provinces. However, it is fascinating to note how Nunavut is quite behind in their vaccinations rates when placed into comparsion with Yukon + Northwest Terrorities. This is where a question of mine arises on to why that is the case? Knowing more additional information on Nunavut's political culture can help further explain the discrepancy why Nunanvut, although a terriority is evidently behind with the other territories. 
 
-4. **The fourth figure is describing** how has mobility changed in Canada over the pandemic? The diagram showcases that most Canadians have resorted to attending parks significantly more than any other form of recreation. I can infer through the data that the high peak is majorly only during the months of Spring/Summer however. In additions, I can infer that mobility transit rates have decreased the most, whereas the rest have been more stagant on the baseline. A question of mine that would be intriguing to answer would be how has online service providers like (Amazon,EBAY, etc) played a factor in the change in mobility in Canada? Including additional information on a survey of Canadians on their experience with service providers like Amazon would be quite interesting to include in the data. 
+4. **The fourth figure is describing** how mobility has changed in Canada during the pandemic. The diagram showcases that most Canadians have resorted to attending parks significantly more than any other form of recreation. I can infer through the data that the high peak is majorly only during the months of Spring/Summer however. In additions, I can infer that mobility transit rates have decreased the most, whereas the rest have been more stagant on the baseline. A question of mine that would be intriguing to answer would be how has online service providers like (Amazon,EBAY, etc) played a factor in the change in mobility in Canada? Including additional information on a survey of Canadians on their experience with service providers like Amazon would be quite interesting to include in the data. 
 
 
-<!-- Write a short response below-->
 
