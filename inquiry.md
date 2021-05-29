@@ -14,7 +14,7 @@ nav_order: 4
 
 
 #### Summary
-As a resident of the Region of Peel, I was interested to see if there has been any changes in my area's transit systems during the course of the pandemic. The figure above showcases the trends and changes. Every since COVID-19 was announced as a worldwide pandemic, it is quite evident to see the consequences it has had on the transit system as it has been significantly declining beyond the baseline for a year now. May 2021, it is shown to see an slight increase. 
+As a resident of the Region of Peel, I was interested to see if there has been any changes in my area's transit systems during the course of the pandemic. The figure above showcases the trends and changes. Ever since COVID-19 was announced as a worldwide pandemic, it is quite heartbreaking to see the consequences it has had on the transit system as it has been significantly declining beyond the baseline for a year now. However, since May 2021, it is shown to see an slight increase. 
 
 ---
 
@@ -28,7 +28,7 @@ As a resident of the Region of Peel, I was interested to see if there has been a
 
 
 #### Summary
-Much of my family live in British Columbia and I wanted to see if they had any changes in Grocery and Pharmacy like us Ontarians did. The bar graph figure illustrates how there were two sections where the percentage change went below the baseline. The timeline looks around the first and second wave. As of May 2021, it seems to be have increasing upwards! Good news :) 
+Much of my family live in British Columbia, and they love to brag of how much better of they are in BC, than us in Ontario (haha) So, I wanted to see if they had any changes in Grocery and Pharmacy like us Ontarians did. The bar graph figure illustrates how there were two sections where the percentage change went below the baseline. The timeline peaks down around the first and second wave. As of May 2021, it seems to be have increasing upwards! 
 
 
 ---
@@ -42,4 +42,4 @@ Much of my family live in British Columbia and I wanted to see if they had any c
 
 
 #### Summary
-I've always wanted to work in Newfoundland and Labrador as I find it such a beautiful place to be! The figure above showcases the workplace percent change in Newfoundland and Labrador. Similar to British Coumbia, there were two sections where the percentage change went below the baseline. The timeline looks around the first and second wave. Other than that, the graph describes a steady line around the workplace percent change. 
+I've always wanted to work in Newfoundland and Labrador as I find it such a beautiful place to work in! The figure above showcases the workplace percent change in Newfoundland and Labrador. Similar to British Coumbia, there were two sections where the percentage change went below the baseline. The timeline peaks down around the first and second wave. Other than that, the graph describes a steady line around the workplace percent change. 
