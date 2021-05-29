@@ -40,7 +40,7 @@ The figure above looks at the changes in travel to retail and recreation destina
 
 
 #### Summary
-The figure above looks at the changes in travel to parks for Parry Sound District, Simcoe County, the Regional Municipality District of Peel, Regional Municipality District of York, and Toronto Divsion. 
+The figure above looks at the changes in travel to parks for Parry Sound District, Simcoe County, the Regional Municipality District of Peel, Regional Municipality District of York, and Toronto Division.
 
 ## 4. Reflection 
 > 1. What are your initial thoughts about using Tableau vs. Google Sheets? What might be the advantages of each? 
